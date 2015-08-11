@@ -1,0 +1,11 @@
+{
+  "name": "name",
+  "description": "description",
+  "launch_path": "index.html",
+
+  "developer": {
+    "name": "dougt",
+    "url": "https://dougt.github.io"
+  },
+  "default_locale": "en"
+}
