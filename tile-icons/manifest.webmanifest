@@ -1,11 +1,24 @@
 {
-  "name": "name",
-  "description": "description",
-  "launch_path": "index.html",
+    "name": "name",
+    "description": "description",
+    "launch_path": "index.html",
 
-  "developer": {
-    "name": "dougt",
-    "url": "https://dougt.github.io"
-  },
-  "default_locale": "en"
+    "developer": {
+        "name": "dougt",
+        "url": "https://dougt.github.io"
+    },
+
+    "icons":[
+    {
+        "type": "image/png",
+        "sizes": "152x152",
+        "src": "152x152.png"
+    },
+    {
+        "type": "image/png",
+        "sizes": "114x114",
+        "src": "114x114.png"
+    }],
+
+    "default_locale": "en"
 }
