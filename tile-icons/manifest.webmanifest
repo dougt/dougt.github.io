@@ -8,6 +8,8 @@
         "url": "https://dougt.github.io"
     },
 
+    "icons_background_color": "#FF0000",
+
     "icons":[
     {
         "type": "image/png",
